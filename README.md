@@ -35,6 +35,6 @@
 </div>
 
 <div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/duribeiro">Eduardo Ribeiro</a></p>
+  <p>Feito com :heart: e JavaScript.</p
+ <p> Crédi: <a href = " https//github.com/duribeiro"> Eduardo Ribeiro </a></p>
 </div>
