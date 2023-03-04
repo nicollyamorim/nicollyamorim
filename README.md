@@ -2,8 +2,7 @@
  
  <h1   alinhar = "centro">
   oi eu sou a
-< a  href = " https://www.linkedin.com/in/nicollyamorim/ " > Nicolly Amorim😆</a>
-
+  < a  href = " https://www.linkedin.com/in/nicollyamorim/ " > Nicolly Amorim😆 </a>
 <div>
  
 <div align="center">
