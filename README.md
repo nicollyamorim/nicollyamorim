@@ -14,6 +14,8 @@
 <div align="center">
   <a href="https://www.instagram.com/Nicollyamroimx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="nicollyamorimjf@gmail.com">
+   <a href="mailto-nicollyamorimjf@gmail.com"><img src="https//img.shields.io/badge/-Gmail-%233333?style=for-badge&logo=gmail&logoColor=white"
+                                                   alvo= "_blank" ></a>
    </div>
 
 <div align="center">
