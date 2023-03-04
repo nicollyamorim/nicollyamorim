@@ -1,9 +1,5 @@
-<div>
- 
- <h1   alinhar = "centro">
-  oi eu sou a
-  < a  href = " https://www.linkedin.com/in/nicollyamorim/ " > Nicolly Amorim😆 </a>
-<div>
+### Olá eu sou a Nicolly Amorim
+ 😆
  
 <div align="center">
   <a href="https://github.com/Nicollyamorim"
