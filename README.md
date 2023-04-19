@@ -9,10 +9,6 @@
   </a>
 </div>
 
-
-<div align="center">
-  <a href="nicollyamorimjf@gmail.com">
-   
    </div>
 
 <div align="center">
@@ -20,5 +16,7 @@
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-
+ 
+ <div alinhar = "centro">
  < a href="https://www.instagram.com/Nicollyamorimx/ " target="-blank>< img src = "http2s://img.shields.io/badge/-Instagram-%23E4405F?style=for -the- badge&logo=instagram&logoColor=white " targe = "-blank"></a
+  <a href="nicollyamorimjf@gmail.com">
