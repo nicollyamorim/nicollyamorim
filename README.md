@@ -16,7 +16,5 @@
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
- 
-<samp>
+
     ![symbole-github-violet](https://user-images.githubusercontent.com/102265055/235003613-ad6808e9-c1a9-4d95-aba3-4ae5d1ae3ea7.png)
-</samp>
