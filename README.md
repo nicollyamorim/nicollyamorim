@@ -1,6 +1,10 @@
 ### Olá eu sou a Nicolly Amorim
  😆
  
+ <div aling=center>
+    <img src="![symbole-github-violet](https://user-images.githubusercontent.com/102265055/235003888-02354243-6628-4f9c-b761-fda818ca90d2.png)" width="400px">
+</div>
+ 
 <div align="center">
   <a href="https://github.com/Nicollyamorim"
      <img height = "150em" src = " https://github-readme-stats.vercel.app/api?
@@ -17,4 +21,3 @@
   
 </div>
 
-    ![symbole-github-violet](https://user-images.githubusercontent.com/102265055/235003613-ad6808e9-c1a9-4d95-aba3-4ae5d1ae3ea7.png)
