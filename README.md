@@ -15,9 +15,9 @@
   
 </div>
 
+
 <p aling="center">
-    👩‍💻stack: <strong>HTML,CSS e JavaScript</forte>
+    👩‍💻<strong>HTML,CSS e JavaScript</forte>
 </p>
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400px"/>
-
+<img src="![programador](https://user-images.githubusercontent.com/102265055/235014152-ee40f49d-1b4b-4c51-8dea-1cf3fa887233.gif)" width="400px"/>
