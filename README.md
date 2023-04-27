@@ -20,3 +20,7 @@
 <div aling=center>
     <img src="![programador](https://user-images.githubusercontent.com/102265055/235005892-f294e5ce-3d44-466f-ba46-56d5a8b40d72.gif)" width="400">
 </div>
+
+<div aling=center>
+    <img src="![symbole-github-violet](https://user-images.githubusercontent.com/102265055/235003888-02354243-6628-4f9c-b761-fda818ca90d2.png)" width="200">
+</div>
