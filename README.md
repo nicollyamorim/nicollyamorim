@@ -1,4 +1,4 @@
-### Olá eu sou a Nicolly Amorim
+### Olá eu sou a Nicolly 
  😆
  
 <div align="center"
@@ -9,14 +9,13 @@
   </a>
 </div>
 
-   </div>
-
 <div align="center">
 
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
+<br>
 <div aling=center>
     <img src="![programador](https://user-images.githubusercontent.com/102265055/235005892-f294e5ce-3d44-466f-ba46-56d5a8b40d72.gif)" width="400">
 </div>
