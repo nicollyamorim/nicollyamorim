@@ -16,10 +16,5 @@
 </div>
 
 <div align="center">
-<img src="
-!(https://user-images.githubusercontent.com/102265055/235005892-f294e5ce-3d44-466f-ba46-56d5a8b40d72.gif)" width="400px" />
+![Snake animation](https://user-images.githubusercontent.com/102265055/235005892-f294e5ce-3d44-466f-ba46-56d5a8b40d72.gif)
 </div>
-
-<div align="center">
-    <img src="(https://user-images.githubusercontent.com/102265055/235006477-474b57f7-72c7-4b3d-a524-5268f594c4a3.png)" width="400px" />
-    </div>
