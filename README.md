@@ -16,5 +16,6 @@
 </div>
 
 <div align="center">
-![Snake animation](https://user-images.githubusercontent.com/102265055/235005892-f294e5ce-3d44-466f-ba46-56d5a8b40d72.gif)
+(https://user-images.githubusercontent.com/102265055/235005892-f294e5ce-3d44-466f-ba46-56d5a8b40d72.gif)
 </div>
+
