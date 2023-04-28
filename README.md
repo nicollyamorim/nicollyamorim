@@ -15,9 +15,16 @@
   
 </div>
 
-
+⁠<p aling="center">
+    💻<strong>⁠Ser programador é ser paciente e persistente na busca de novos conhecimentos.</forte>
+</p>
 <p aling="center">
     👩‍💻<strong>HTML,CSS e JavaScript</forte>
 </p>
 
-<img src="![programador](https://user-images.githubusercontent.com/102265055/235014152-ee40f49d-1b4b-4c51-8dea-1cf3fa887233.gif)" width="400px"/>
+<p align = "center">
+    <img src = "https://github-readme-stats.vercel.app/api?username=nicollyamorim&show_icons=true&theme=tokyonight&line_height=27">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nicollyamorim&hide=css,html&theme=tokyonight">
+</p>
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400px"/>
