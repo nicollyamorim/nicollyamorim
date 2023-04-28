@@ -24,7 +24,6 @@
 
 <p align = "center">
     <img src = "https://github-readme-stats.vercel.app/api?username=nicollyamorim&show_icons=true&theme=tokyonight&line_height=27">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nicollyamorim&hide=css,html&theme=tokyonight">
 </p>
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400px"/>
