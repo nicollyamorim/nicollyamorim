@@ -1,8 +1,7 @@
 
-    <span aling="center">
         ### Olá eu sou a Nicolly
         😉
-    </span>
+    
  
 <div align="center"
   <a href="https://github.com/Nicollyamorim"
