@@ -1,6 +1,6 @@
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D358F7&height=120&section=header"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DA81F5&height=120&section=header"/>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CC2EFA&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Nicolly+Amorim;I'm+16+years+old;I+am+from+Juiz+de+Fora,+MG;Be+Welcome!+❤)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D358F7&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Nicolly+Amorim;I'm+16+years+old;I+am+from+Juiz+de+Fora,+MG;Be+Welcome!+❤)](https://git.io/typing-svg)
 
 
 <div align="center">
@@ -24,11 +24,11 @@
   </a>
 </div>
 
+<div style="display: inline_block"><br/>
+<img align="center" alt="html" src="https://img.shields.io/badge/HTML-CC2EFA?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-CC2EFA?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-CC2EFA?&style=for-the-badge&logo=javascript&logoColor=white"/>
+</div><br/>
 
 
-
-
-
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D358F7&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DA81F5&height=120&section=footer"/>
