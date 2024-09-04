@@ -1,13 +1,8 @@
-𝐎𝐥𝐚́, 𝐞𝐮 𝐬𝐨𝐮 𝐚 𝐍𝐢𝐜𝐨𝐥𝐥𝐲
- 😉
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/baeb69c6-a4be-4ff0-8303-55b349a84a2a"/>
+<br>
+<br> 
  
-<div align="center"
-  <a href="https://github.com/Nicollyamorim"
-     <img height = "150em" src = " https://github-readme-stats.vercel.app/api?
- userename=Nicollyamorim&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicollyamorim&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
+
 
 <div align="center">
 
