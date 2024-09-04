@@ -1,6 +1,4 @@
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/baeb69c6-a4be-4ff0-8303-55b349a84a2a"/>
-<br>
-<br> 
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CC2EFA&height=120&section=header"/>
  
 
 
@@ -22,3 +20,5 @@
 
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400px"/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CC2EFA&height=120&section=footer"/>
