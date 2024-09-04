@@ -11,13 +11,22 @@
 
 
 <div align="center"> 
-    <a href="https://www.instagram.com/nicollyamorimx/" target="_blank">
-        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="https://www.linkedin.com/in/nicollyamorim/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%23007785?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" alt="LinkedIn">
-    </a>
+ 
+ ### Conecte-se Comigo
+ 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF69B4)](https://www.linkedin.com/in/nicollyamorim/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF69B4)](https://www.instagram.com/nicollyamorimx/)
+
 </div>
+
+
+<div align="center">
+  <a href="https://github.com/nicollyamorim">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nicollyamorim&show_icons=true&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2&icon_color=bd93f9&border_color=ff79c6&hide_border=true&card_width=300"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollyamorim&layout=compact&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2&icon_color=bd93f9&border_color=ff79c6&hide_border=true&card_width=300"/>
+  </a>
+</div>
+
 
 
 ⁠<p aling="center">
