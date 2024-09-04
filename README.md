@@ -9,16 +9,13 @@
   
 </div>
 
+<div align="center">
 
-<div align="center"> 
-    <a href="https://www.instagram.com/nicollyamorimx/" target="_blank">
-        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="https://www.linkedin.com/in/nicollyamorim/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%23007785?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" alt="LinkedIn">
-    </a>
-</div>
+### Conecte-se Comigo
+ [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF69B4)](https://www.linkedin.com/in/nicollyamorim/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF69B4)](https://www.instagram.com/nicollyamorimx/)
 
+<div/>
 
 ⁠<p aling="center">
     💻<strong>⁠Ser programador é ser paciente e persistente na busca de novos conhecimentos.</forte>
