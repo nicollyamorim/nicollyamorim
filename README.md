@@ -35,7 +35,6 @@
 ### Conecte-se Comigo
  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF69B4)](https://www.linkedin.com/in/nicollyamorim/)
 [![Behance](https://img.shields.io/badge/-Behance-000000?style=for-the-badge&logo=behance&logoColor=FF69B4)](https://www.behance.net/nicolly-amorim)
-[![Gmail](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF69B4)](nicollyamorimjf@gmail.com)
 
 <div data-importer="image" align="center">
   <img data-importer="image" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW5ldWN0ajFzZDdsN2dtMWczaGw2b2kzdWZrazl1dXlqemR2c3M3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wIUQQ07BHzDry/giphy.gif"  />
