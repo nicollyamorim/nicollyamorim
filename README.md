@@ -1,34 +1,45 @@
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DA81F5&height=120&section=header"/>
-
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D358F7&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Nicolly+Amorim;I'm+18+years+old;I+am+from+Juiz+de+Fora,+MG;Be+Welcome!+❤)](https://git.io/typing-svg)
-
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DE85C7&height=120&section=header"/>
 
 <div align="center">
+ 
+<picture>
+ 
+<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=50&duration=1&color=DE85C7&center=true&vCenter=true&width=800&height=100&lines=Nicolly+Amorim&repeat=false" alt="Nicolly Amorim">
 
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
+ </picture>
+
+ <p align="center">
+𝑷𝒓𝒐𝒋𝒆𝒕𝒂𝒏𝒅𝒐 𝒄𝒐𝒎 𝒑𝒓𝒐𝒑ó𝒔𝒊𝒕𝒐, 𝒆𝒗𝒐𝒍𝒖𝒊𝒏𝒅𝒐 𝒂 𝒄𝒂𝒅𝒂 𝒑𝒓𝒐𝒋𝒆𝒕𝒐.
+</p>
+
+
+---
+
+
+ <h2 data-importer="text" align="left">About me</h2>
+
+<p data-importer="text" align="left">Sou estudante de UX/UI Design, criando interfaces intuitivas e experiências digitais centradas no usuário. Aqui compartilho projetos, estudos e experimentos que refletem minha evolução em pesquisa, prototipação e design de interfaces, sempre buscando unir funcionalidade, clareza e um visual consistente.</p>
+
+<h2 data-importer="text" align="left">Tenho conhecimnento em:</h2>
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
-
-<div align="center">
 
 ### Conecte-se Comigo
  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF69B4)](https://www.linkedin.com/in/nicollyamorim/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF69B4)](https://www.instagram.com/nicollyamorimx/)
+[![Behance](https://img.shields.io/badge/-Behance-000000?style=for-the-badge&logo=behance&logoColor=FF69B4)](https://www.behance.net/nicolly-amorim)
+[![Gmail](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF69B4)](nicollyamorimjf@gmail.com)
 
-<div/>
-
-<div align="center">
-  <a href="https://github.com/nicollyamorim">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nicollyamorim&show_icons=true&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2&icon_color=bd93f9&border_color=ff79c6&hide_border=true&card_width=300"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollyamorim&layout=compact&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2&icon_color=bd93f9&border_color=ff79c6&hide_border=true&card_width=300"/>
-  </a>
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW5ldWN0ajFzZDdsN2dtMWczaGw2b2kzdWZrazl1dXlqemR2c3M3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wIUQQ07BHzDry/giphy.gif"  />
 </div>
 
-<div style="display: inline_block"><br/>
-<img align="center" alt="html" src="https://img.shields.io/badge/HTML-CC2EFA?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-CC2EFA?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-CC2EFA?&style=for-the-badge&logo=javascript&logoColor=white"/>
-</div><br/>
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DA81F5&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DE85C7&height=120&section=footer"/>
