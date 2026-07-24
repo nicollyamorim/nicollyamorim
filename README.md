@@ -16,7 +16,7 @@
 ---
 
 
- <h2 data-importer="text" align="left">About me</h2>
+ <h2 data-importer="text" align="left">Sobre mim</h2>
 
 <p data-importer="text" align="left">Sou estudante de UX/UI Design, criando interfaces intuitivas e experiências digitais centradas no usuário. Aqui compartilho projetos, estudos e experimentos que refletem minha evolução em pesquisa, prototipação e design de interfaces, sempre buscando unir funcionalidade, clareza e um visual consistente.</p>
 
